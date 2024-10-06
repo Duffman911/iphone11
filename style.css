@@ -23,8 +23,8 @@ p{
     background:linear-gradient( rgb(68, 122, 68), rgba(228, 197, 25, 0.555));
     border: 2px solid;
     border-radius: 25px;
-    padding:25px;
-    margin: 30px;
+    padding:15px;
+    margin: 10px;
     text-align: center;
     display:flex;
     font-size: 18px;
@@ -34,8 +34,8 @@ p{
     background:linear-gradient(rgba(228, 197, 25, 0.555), rgb(220, 226, 220));
     border: 2px solid;
     border-radius: 25px;
-    padding:25px;
-    margin: 30px;
+    padding:15px;
+    margin: 10px;
     text-align: center;
     font-size: 18px; 
 }
