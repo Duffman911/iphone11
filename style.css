@@ -1,0 +1,47 @@
+*{margin: 0;
+padding: 0;
+}
+body{
+    background-image:url(lol.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    margin: 20px 0;
+}
+.phone{
+    align-items: center;
+    text-align: center;
+}
+.phone img{
+    width: 100px;
+}
+p{
+    background:linear-gradient( rgb(68, 122, 68), rgba(228, 197, 25, 0.555));
+    border: 2px solid;
+    border-radius: 25px;
+    padding:25px;
+    margin: 30px;
+    text-align: center;
+    display:flex;
+    font-size: 18px;
+    
+}
+.yosh{
+    background:linear-gradient(rgba(228, 197, 25, 0.555), rgb(220, 226, 220));
+    border: 2px solid;
+    border-radius: 25px;
+    padding:25px;
+    margin: 30px;
+    text-align: center;
+    font-size: 18px; 
+}
+.yosh img{
+    width: 18px;
+}
+.btn{
+    margin: 10px;
+}
